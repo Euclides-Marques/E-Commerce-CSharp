@@ -1,0 +1,9 @@
+{
+  "name": "DevMarket",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "devextreme-dist": "24.2-stable"
+  }
+}
